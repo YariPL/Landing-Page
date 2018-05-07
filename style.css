@@ -28,21 +28,21 @@ body{
 }
 
 #nav-bar li a {
-    display: block;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    margin-right: 54px;
-    margin-top:10px;  
-    color:black;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-right: 54px;
+  margin-top:10px;  
+  color:black;
 
 }
 
 ul {
-    list-style-type: none;
-    margin: auto;
-    padding: auto;
-    overflow: auto;
+  list-style-type: none;
+  margin: auto;
+  padding: auto;
+  overflow: auto;
   
 }
 #nav-bar {
@@ -105,8 +105,8 @@ input {
 
 }
 iframe{
-	  max-width: 560px;
-    width: 100%;
+  max-width: 560px;
+  width: 100%;
 }
 
 
@@ -160,9 +160,6 @@ iframe{
   
 }
 
-
-
-
 /*ad*/
 footer {
   margin-top: 30px;
@@ -179,21 +176,21 @@ ul {
 
 } 
 span {
-    margin-top: 5px;
-    display: flex;
-    justify-content: flex-end;
-    font-size: 0.9em;
-    color: #444;
-  }
+  margin-top: 5px;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 0.9em;
+  color: #444;
+}
 a{
-      text-decoration: none;
-      color:black;
+  text-decoration: none;
+  color:black;
 }
 ol{
-      list-style-type: none;
-      margin-right:35px;
-      line-height:2;
-      margin-top:1px;
+  list-style-type: none;
+  margin-right:35px;
+  line-height:2;
+  margin-top:1px;
 }
 footer{
   max-width:73%;
